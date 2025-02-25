@@ -38,7 +38,7 @@ Anyway, the hack procedure will create a backup for you.
 ### Install Procedure
 If you want to use the original Yi app, please install it and complete the pairing process before installing the hack.
 
-Otherwise, check setep 4.
+Otherwise, check step 4.
 
 1. Format an SD Card as FAT32. It's recommended to format the card in the camera using the camera's native format function. If the card is already formatted, remove all the files.
 2. Download the latest release from the Releases page.
